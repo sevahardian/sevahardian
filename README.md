@@ -20,7 +20,7 @@
   <!--  ANIMASI TEKS TYPING                                 -->
   <!-- ===================================================== -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Halo%21+Aku+Seva+%26+Prodi+TIF;Ini+%26+Nyoba+Buat+Profile+GitHub;Hehe+#nyoba"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Halo+Semua+Aku+Seva+dari+Prodi+TIF;Ini+Lagi+Nyoba+Buat+Profile+GitHub;Hehehehhe+Salken"
     alt="Typing SVG"
   />
 
