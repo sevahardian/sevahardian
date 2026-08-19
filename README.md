@@ -2,14 +2,15 @@
 
   <!-- ===================================================== -->
   <!--  HEADER BANNER GIF (Tenor)                            -->
-  <!--  Ukuran asli: 165x124 px (diproposionalkan 1.33:1)  -->
+  <!--  Full-width (ujung ke ujung), rasio asli 1.33:1      -->
+  <!--  height="auto" menjaga proporsi tanpa distorsi       -->
   <!--  GIF otomatis auto-play di GitHub, tidak perlu script -->
   <!-- ===================================================== -->
   <img
     src="https://media.tenor.com/fp8-hEm86lwAAAAM/roh-yoon-seo.gif"
     alt="Header GIF"
-    width="280"
-    height="210"
+    width="100%"
+    height="auto"
     style="border-radius: 12px;"
   />
 
@@ -63,14 +64,15 @@
 
       <!-- ===================================================== -->
       <!--  GIF SAMPING / MASKOT (Tenor)                        -->
-      <!--  Ukuran asli: 220x184 px                             -->
+      <!--  Diperbesar proporsional dari 220x184 -> 300x251    -->
+      <!--  Rasio asli 1.196:1 tetap terjaga, tanpa distorsi    -->
       <!--  GIF otomatis auto-play di GitHub, tidak perlu script -->
       <!-- ===================================================== -->
       <img
         src="https://media.tenor.com/vXEMotzsnjkAAAAM/roh-yoon-seo.gif"
         alt="Coding GIF"
-        width="220"
-        height="184"
+        width="300"
+        height="251"
         style="border-radius: 10px;"
       />
 
