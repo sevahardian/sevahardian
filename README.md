@@ -61,8 +61,7 @@
 
     </td>
     <td width="40%" align="center" valign="middle">
-
-      <!-- GIF SAMPING / MASKOT -->
+    
       <img src="https://media.tenor.com/vXEMotzsnjkAAAAM/roh-yoon-seo.gif" alt="Coding GIF" width="300" height="251" style="border-radius: 10px;"/>
 
     </td>
