@@ -58,12 +58,9 @@
 - 🎓 **Latar Belakang:** Siswa **SMK (PPLG)** yang bersemangat dalam eksplorasi dunia pemrograman.
 - 🛠️ **Favorite Stack:** Laravel, PHP, JS, Tailwind CSS, & VS Code.
 - ⚡ **Fun Fact:** Suka konfigurasi _workspace_ VS Code agar rapi dan nyaman buat _coding_ marathon!
-
     </td>
     <td width="40%" align="center" valign="middle">
-    
       <img src="https://media.tenor.com/vXEMotzsnjkAAAAM/roh-yoon-seo.gif" alt="Coding GIF" width="300" height="251" style="border-radius: 10px;"/>
-
     </td>
   </tr>
 </table>
