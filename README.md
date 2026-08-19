@@ -51,30 +51,19 @@
   <tr>
     <td width="60%" valign="top">
 
-      ### 🚀 Tentang Saya
+### 🚀 Tentang Saya
 
-      - 🔭 **Sedang Mengerjakan:** Project Web App berbasis **Laravel 11/12** & **MySQL/Oracle**.
-      - 💼 **Fokus Skill:** Backend Architecture, REST API, & Database Management.
-      - 🎓 **Latar Belakang:** Siswa **SMK (PPLG)** yang bersemangat dalam eksplorasi dunia pemrograman.
-      - 🛠️ **Favorite Stack:** Laravel, PHP, JS, Tailwind CSS, & VS Code.
-      - ⚡ **Fun Fact:** Suka konfigurasi _workspace_ VS Code agar rapi dan nyaman buat _coding_ marathon!
+- 🔭 **Sedang Mengerjakan:** Project Web App berbasis **Laravel 11/12** & **MySQL/Oracle**.
+- 💼 **Fokus Skill:** Backend Architecture, REST API, & Database Management.
+- 🎓 **Latar Belakang:** Siswa **SMK (PPLG)** yang bersemangat dalam eksplorasi dunia pemrograman.
+- 🛠️ **Favorite Stack:** Laravel, PHP, JS, Tailwind CSS, & VS Code.
+- ⚡ **Fun Fact:** Suka konfigurasi _workspace_ VS Code agar rapi dan nyaman buat _coding_ marathon!
 
     </td>
     <td width="40%" align="center" valign="middle">
 
-      <!-- ===================================================== -->
-      <!--  GIF SAMPING / MASKOT (Tenor)                        -->
-      <!--  Diperbesar proporsional dari 220x184 -> 300x251    -->
-      <!--  Rasio asli 1.196:1 tetap terjaga, tanpa distorsi    -->
-      <!--  GIF otomatis auto-play di GitHub, tidak perlu script -->
-      <!-- ===================================================== -->
-      <img
-        src="https://media.tenor.com/vXEMotzsnjkAAAAM/roh-yoon-seo.gif"
-        alt="Coding GIF"
-        width="300"
-        height="251"
-        style="border-radius: 10px;"
-      />
+      <!-- GIF SAMPING / MASKOT -->
+      <img src="https://media.tenor.com/vXEMotzsnjkAAAAM/roh-yoon-seo.gif" alt="Coding GIF" width="300" height="251" style="border-radius: 10px;"/>
 
     </td>
   </tr>
