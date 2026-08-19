@@ -1,43 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42275a,100:734b6d&height=180&section=header&text=Selamat%20Datang!&fontSize=38&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D980FA&center=true&vCenter=true&width=500&height=50&lines=High+School+Student+%7C+PPLG;Backend+%26+Web+Developer;Building+Web+Applications" />
+  <!-- ================= BANNER / HEADER GIF ================= -->
+  <!-- BISA DICUSTOM: Ganti URL src gambar gif di bawah ini dengan GIF pilihanmu -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtNHRzcXZrcGZ1cnNyejZzMmRneWNmcmwza2lyNmFlcGwyeWh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3PToK07548545e1B0/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
+
+<br><br>
+
+  <!-- ANIMASI TEKS TYPING -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Halo%21+Saya+Software+%26+Game+Dev;Laravel+%26+PHP+Enthusiast;Building+Awesome+Web+Applications" alt="Typing SVG" />
+
+  <p align="center">
+    <b>Junior Web Developer</b> &bull; Passionate about Clean Code, Databases & Backend Engineering
+  </p>
+
+  <!-- SOCIAL / BADGES CONTACT -->
+  <p align="center">
+    <a href="https://github.com/sevahardian"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/sevahardian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
 </div>
 
-<br>
+<hr style="border: 0.5px solid #2d3748;" />
 
-### 📌 Tentang Saya
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
 
-- 🔭 Saat ini sedang fokus mengembangkan aplikasi berbasis **Laravel** dan **PHP**.
-- 🛠️ Suka mengeksplorasi manajemen basis data (_MySQL_, _Oracle_) dan arsitektur backend.
-- 🎯 Berambisi untuk terus mengasah keahlian pemrograman web dan game.
-- ⚡ **Fun Fact:** Lebih suka _environment_ visual studio code yang bersih dan efisien!
+### 🚀 Tentang Saya
+
+- 🔭 **Sedang Mengerjakan:** Project Web App berbasis **Laravel 11/12** & **MySQL/Oracle**.
+- 💼 **Fokus Skill:** Backend Architecture, REST API, & Database Management.
+- 🎓 **Latar Belakang:** Siswa **SMK (PPLG)** yang bersemangat dalam eksplorasi dunia pemrogramaan.
+- 🛠️ **Favorite Stack:** Laravel, PHP, JS, Tailwind CSS, & VS Code.
+- ⚡ **Fun Fact:** Suka konfigurasi _workspace_ VS Code agar rapi dan nyaman buat _coding_ marathon!
+
+      </td>
+      <td width="40%" align="center" valign="middle">
+
+    <!-- ================= CUSTOM GIF / MASKOT ANIMASI ================= -->
+    <!-- BISA DICUSTOM: Ganti GIF samping ini dengan GIF anime / maskot kesukaanmu -->
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1cGp6MGdrOHF6MnU5eTcyNXFma3BxZWgyaDhpNm1sNXByYmk3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" width="220px" style="border-radius: 10px;" alt="Coding GIF" />
+
+      </td>
+
+    </tr>
+  </table>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,mysql,oracle,vscode,git,github&perline=6&theme=dark" />
-</div>
+<p align="center">
+  <!-- Bahasa & Framework -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,tailwind&perline=7&theme=dark" /><br>
+  <!-- Database & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,git,github,vscode,postman,opera&perline=7&theme=dark" />
+</p>
 
 ---
 
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sevahardian&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevahardian&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=sevahardian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevahardian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<br>
+  <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevahardian&theme=tokyonight&hide_border=true" />
+  <!-- STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevahardian&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak Stats" />
 </div>
 
 ---
 
+<!-- FOOTER ANIMASI -->
 <div align="center">
-  <sub>Dibuat dengan ❤️ Menggunakan Markdown</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0854,100:181028&height=120&section=footer" width="100%" />
+  
+  <p><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
 </div>
