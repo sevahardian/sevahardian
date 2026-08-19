@@ -2,7 +2,7 @@
 
   <!-- ================= BANNER / HEADER GIF ================= -->
   <!-- BISA DICUSTOM: Ganti URL src gambar gif di bawah ini dengan GIF pilihanmu -->
-  <img src="https://tenor.com/lnvbljhYbzv.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
+  <img src="https://media.tenor.com/fp8-hEm86lwAAAAM/roh-yoon-seo.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
 
 <br><br>
 
@@ -41,7 +41,7 @@
 
     <!-- ================= CUSTOM GIF / MASKOT ANIMASI ================= -->
     <!-- BISA DICUSTOM: Ganti GIF samping ini dengan GIF anime / maskot kesukaanmu -->
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220px" style="border-radius: 10px;" alt="Coding GIF" />
+    <img src="https://media.tenor.com/vXEMotzsnjkAAAAM/roh-yoon-seo.gif" width="220px" style="border-radius: 10px;" alt="Coding GIF" />
 
       </td>
 
@@ -67,10 +67,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=sevahardian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" />
+        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevahardian&theme=tokyonight" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevahardian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" alt="Top Languages" />
+        <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sevahardian&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
