@@ -2,7 +2,7 @@
 
   <!-- ================= BANNER / HEADER GIF ================= -->
   <!-- BISA DICUSTOM: Ganti URL src gambar gif di bawah ini dengan GIF pilihanmu -->
-  <img src="https://media.tenor.com/lnvbljhYbzv.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
+  <img src="https://media.tenor.com/fp8-hEm86lwAAAAM/roh-yoon-seo.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
 
 <br><br>
 
