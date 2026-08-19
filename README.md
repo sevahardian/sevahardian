@@ -2,7 +2,7 @@
 
   <!-- ================= BANNER / HEADER GIF ================= -->
   <!-- BISA DICUSTOM: Ganti URL src gambar gif di bawah ini dengan GIF pilihanmu -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
+  <img src="https://tenor.com/lnvbljhYbzv.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 12px;" alt="Header GIF"/>
 
 <br><br>
 
